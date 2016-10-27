@@ -2,4 +2,4 @@
 
 
 ## Drupal 8
-1. [Free tutorials list by RedCrackle](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
+1. [Drupal 8 FAQ](https://www.drupal.org/8/faq)
